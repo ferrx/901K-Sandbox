@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ferrx/901K-Sandbox.svg?branch=master)](https://travis-ci.org/meanjs/mean)
+
 ##THE CORROLATOR
 
 ####Vision `Relate Unrelated Things`
