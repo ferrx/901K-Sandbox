@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ferrx/901K-Sandbox.svg?branch=master)](https://travis-ci.org/meanjs/mean)
+[![Build Status](https://travis-ci.org/ferrx/901K-Sandbox.svg?branch=master)](https://travis-ci.org/ferrx/901k-sandbox)
 
 ##THE CORROLATOR
 
